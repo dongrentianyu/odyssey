@@ -1,0 +1,21 @@
+created: 20240116195804469
+creator: 马不前
+modified: 20240116201810406
+modifier: 马不前
+tags: wikitext语法演示
+title: 表格语法展示
+
+|!Cell1 |!Cell2 |Cell2|1|Cell1 |Cell2|
+|Cell3 | Cell30000000000000 |Cell2|1|Cell1 |Cell2|
+|Cell1 | Cell2 |Cell2|1|Cell1 |Cell2|
+|Cell3 | Cell3|Cell2|>|1 Cell1 |Cell2|
+|Cell1 |Cell2|Cell2|1|Cell1 Cell2 |<|
+
+|!Cell1 |!Cell2 | 
+|Cell3 |Cell3 |
+
+|!Cell1 |!Cell2 |Cell20000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000|1|Cell1 |Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|
+|Cell3 | Cell30000000000000 |Cell2|1|Cell1 |Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|
+|Cell1 | Cell2 |Cell2|1|Cell1 |Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|
+|Cell3 | Cell3|Cell2|>|1 Cell1 |Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|
+|Cell1 |Cell2|Cell2|1|Cell1 Cell2 |<|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|Cell2|
